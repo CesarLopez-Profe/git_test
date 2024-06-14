@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "logica_20242.Main",
+            "projectName": "ejercicio1"
+        },
+        {
+            "type": "java",
+            "name": "CalculosPrueba",
+            "request": "launch",
+            "mainClass": "CalculosPrueba",
+            "projectName": "ejercicio1"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
